@@ -1,0 +1,26 @@
+{
+    "name": "David Joao Sandoval",
+    "website": "https://davidjoao.netlify.app/",
+    "linkedin": "https://www.linkedin.com/in/davidjoaosandoval/",
+    "github": "https://github.com/DavidJoao",
+    "email": "davidsandoval596@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "favoriteBands": [
+        "The Killers",
+        "Cage The Elephant",
+        "Zoe"
+    ]
+}
